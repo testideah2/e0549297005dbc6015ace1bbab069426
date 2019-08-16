@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "kz.kaznmu.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>ТЕСТ. KAZNMU</name>
 
@@ -45,10 +45,10 @@
     <icon src="res/android/icon/9130d26c2e8f55521f270622e72ae124.png" density="xxhdpi" />
     <icon src="res/android/icon/8a80ae661f5b5455d7705c0a45d93a16.png" density="xxxhdpi" />
 
-    <splash src="res/android/screen/60a30fb8ce0069c572a68049480c4e11.png" density="port-hdpi"/>
-    <splash src="res/android/screen/6ad0ccae5a0eddbf79b49859876330b4.png" density="port-ldpi"/>
-    <splash src="res/android/screen/b38d1b9a81d73c8037bd8daa26a50eb6.png" density="port-mdpi"/>
-    <splash src="res/android/screen/78827347e5c0cda64c802e10c765d178.png" density="port-xhdpi"/>
+    <splash src="res/android/screen/6c97dc24211416f736328ce908b2ddfe.png" density="port-hdpi"/>
+    <splash src="res/android/screen/2365d061b20fd0f623f2d2c3006313a0.png" density="port-ldpi"/>
+    <splash src="res/android/screen/c7bbce2eda0987143884db272751870b.png" density="port-mdpi"/>
+    <splash src="res/android/screen/0ec61f2a87568ef69d57166de29ade4a.png" density="port-xhdpi"/>
 </platform>
 
 <platform name="ios">
